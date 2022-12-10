@@ -5,3 +5,5 @@ function i(id) {
 function c(cl) {
     return document.getElementsByClassName(cl);
 }
+
+console.log('hello');
