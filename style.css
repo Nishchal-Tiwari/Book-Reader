@@ -3,11 +3,18 @@ body {
     background: linear-gradient(to right, #ebfe82, #f1d901);
 }
 
+#headd {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
 .imgg {
     height: 500px;
     padding: 30px;
     border-radius: 20px;
     overflow: hidden;
+    position: relative;
 }
 
 .imgg img {
